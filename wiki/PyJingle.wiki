@@ -1,4 +1,4 @@
-#PyJingle (python-libjingle) is a set of Python bindings for Google Talk's libjingle
+#summary PyJingle (python-libjingle) is a set of Python bindings for Google Talk's libjingle
 
 = PyJingle =
 
