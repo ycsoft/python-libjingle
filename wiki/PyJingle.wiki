@@ -1,0 +1,13 @@
+#PyJingle (python-libjingle) is a set of Python bindings for Google Talk's libjingle
+
+= PyJingle =
+
+This project aims to create Python bindings for libjingle-0.3 and 0.4, and to track newer Google releases.
+
+
+= Details =
+
+Similar and related projects:
+  * ProjectTapioca
+  * Telepathy
+  * Empathy
