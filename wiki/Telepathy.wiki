@@ -1,0 +1,16 @@
+#summary Telepathy - a FreeDesktop.org standard framework for communications clients
+
+= Telepathy =
+
+Telepathy is a lower-level communications framework that is protocol, applicatino, and platform agnostic.
+
+[http://mission-control.sourceforge.net/mission-control.png http://mission-control.sourceforge.net/mission-control.png]
+
+Where libjingle fits in is as a component library for the grey "Jabber" box.  python-libjingle is just a Python binding for libjingle.
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
