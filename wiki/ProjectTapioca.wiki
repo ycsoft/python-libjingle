@@ -1,4 +1,4 @@
-#summary Project Tapioca: Relationship (or lack thereof) to python-libjingle
+#summary Project Tapioca: Relationship to python-libjingle
 
 = Project Tapioca =
 
