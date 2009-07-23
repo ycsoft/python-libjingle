@@ -2,8 +2,6 @@
 
 = Project Tapioca =
 
-Add your content here.
-
 [http://tapioca-voip.sourceforge.net/wiki/index.php/Tapioca Project Tapioca] is a component of Telepathy.  Tapioca, like libjingle and PyJingle, aims to be a complete API for instant messaging and P2P and it, in fact, includes an interface to libjingle and is not related otherwise to PyJingle. However, the API for Tapioca is different from PyJingle:
 
   * It aims to (some say schizophrenically) integrate IM, SIP, XMPP (Jabber), MSN, IRC, etc. in much the same way that Pidgin and libpurple do.
