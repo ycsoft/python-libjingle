@@ -1,4 +1,5 @@
 #summary Telepathy - a FreeDesktop.org standard framework for communications clients
+#labels DesignIntent
 
 = Telepathy =
 
