@@ -15,8 +15,6 @@ Now for the $10000 question:  Where does ProjectTapioca fit on this diagram?  (H
 PyJingle would be a component library of the first grey box for Jabber/Google Talk:
   * A "Google Talk for Linux" would, ideally, be implemented as two components:  a UI, and the fully-fleshed out connection manager, though I suppose it could be one package that is a hybrid of the two.
   * Another project can provide a more Pythonic interface, between Telepathy Python and libjgingle.  This would be a connection manager, and a platform agnostic "Google Talk" client, occupying a "Chat UI" component could then be written using PyGTK, PyQt. wxWidgets, Jython and Swing, etc.
-  * One of the existing UIs (Empathy, Kopete, etc.)  may adopt python-jingle as part of a "plug-in" architecture for their software.
+  * One of the existing UIs (Empathy, Kopete, etc.)  may adopt PyJingle or the above hypothetical project (Grand Unified Messsaging for PYthon? ;) as part of a "plug-in" architecture for their software.
   * Pidgin has a Python interface.  Maybe someone could write a more complete plugin for libpurple and ties Pidgin into Telepathy, etc., but keep in mind that libpurple itself is not thread-safe.
-
-
 
